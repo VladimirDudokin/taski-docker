@@ -11,8 +11,6 @@ DEBUG = True
 ALLOWED_HOSTS = ['158.160.25.228', 'taski.plus-dev.ru', 'localhost', 'https://taski.plus-dev.ru', '127.0.0.1']
 
 
-# Application definition
-
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
     'django.contrib.admin',
